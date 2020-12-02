@@ -2,14 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e3a9c4d-ef29-433e-b66d-ec340ddcf769" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/1377072.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/superW.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/superwoman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/squad-detail.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/squadForm.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/squadHeroesSuccess.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/squadSuccess.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/success.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/models/Individual_HeroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/models/SquadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/images/avengers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/heroDetail.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/layout.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/post-heroForm.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/squadFoam.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/.heroku-deploy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/avengers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/heroDetail.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/layout.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/post-heroForm.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/squadFoam.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/public/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/heroDetail.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/heroDetail.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/index.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/layout.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/squadFoam.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/Squad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Squad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/models/individual_HeroTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/heroDetail.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/heroDetail.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/squadFoam.hbs" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -234,6 +284,9 @@
       <updated>1606588798477</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

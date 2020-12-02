@@ -1,2 +1,6 @@
+models/Individual_Hero.java
+ models.Individual_Hero
+models/Squad.java
+ models.Squad
 App.java
  App

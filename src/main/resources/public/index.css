@@ -1,6 +1,18 @@
-body{
+ body{
+color: white;
 background-image: url('/images/avengers.jpg');
-background-repeat:no-repeat;
+background-repeat: no-repeat;
 background-size:cover;
-color:white;
+background-position: center-center;
+opacity: 0.7;
+font-style:italic;
+
+}
+
+.card{
+background-color:blue;
+height:70vh;
+font-size:medium;
+padding-top:50%;
+padding-bottom:50%;
 }
